@@ -1,4 +1,4 @@
-#Created by Jared-Base for the "Beginners Guide to (almost) Everything SpaceX" website
+#Created by Jared-Base for the Launch Rats website
 #Generates a .txt file that uploads to GitHub and is then displaied on the site using HTML Code
 #Uses the Launch Library website to get info
 
